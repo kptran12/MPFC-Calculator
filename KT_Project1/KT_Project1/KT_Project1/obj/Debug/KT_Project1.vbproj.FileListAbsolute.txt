@@ -1,0 +1,12 @@
+c:\users\kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\bin\Debug\KT_Project1.exe.config
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\bin\Debug\KT_Project1.exe
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\bin\Debug\KT_Project1.pdb
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\bin\Debug\KT_Project1.xml
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.vbprojResolveAssemblyReference.cache
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.Resources.resources
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.vbproj.GenerateResource.Cache
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.exe
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.xml
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.pdb
+C:\Users\Kristen\documents\visual studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.MPFCCalculator.resources
+C:\Users\Kristen\Documents\Visual Studio 2015\Projects\KT_Project1\KT_Project1\obj\Debug\KT_Project1.Summary.resources
